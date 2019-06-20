@@ -1,0 +1,6 @@
+#directory "_build";;
+#require "str";;
+#require "ANSITerminal";;
+#require "qcheck";;
+#load_rec "deck.cmo";;
+#load_rec "main.cmo";;
